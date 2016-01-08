@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/COTS/MiscJars/activemq-all-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alan.layton/.m2/repository/manatee2/logger/1.0.0-SNAPSHOT/logger-1.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
